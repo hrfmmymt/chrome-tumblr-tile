@@ -20,7 +20,8 @@ tumblrTile || (function() {
         var config    = configStr ? JSON.parse(configStr) : {};
 
         var defaultConfig = {
-            hostname : "aoi-miyazaki.tumblr.com",
+            apiKey   : 'UzvNmLeVFBpiFMakyac4wPlteUevfkSnQijUz4V8Kcuisvmip7',
+            hostname : "eri-yuko.tumblr.com",
             baseWidth: 250,
             margin   : 10
         };
